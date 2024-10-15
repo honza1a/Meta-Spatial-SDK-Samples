@@ -1,0 +1,33 @@
+google search page:
+https://www.google.com/search?q=gist+github&oq=&gs_lcrp=EgZjaHJvbWUqCQgDECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gIyCQgIECMYJxjqAjIJCAkQIxgnGOoCMgkIChAjGCcY6gIyCQgLECMYJxjqAjIJCAwQIxgnGOoCMgkIDRAjGCcY6gIyCQgOECMYJxjqAtIBBi0xajBqN6gCD7ACAQ&sourceid=chrome-mobile&ie=UTF-8&chrome_dse_attribution=1#vhid=zephyr:0&vssid=atritem-
+
+otevřít People also ask / When to use GitHub gist
+
+https://www.jetbrains.com/help/webstorm/share-code-with-gists.html#:~:text=Share%20code%20with%20GitHub%20gists%EF%BB%BF&text=Gists%20let%20you%20share%20code,debugging%2C%20or%20testing%20your%20code.
+
+https://www.jetbrains.com/help/webstorm/share-code-with-gists.html
+    #:~:text=Share%20code%20with%20GitHub%20gists
+        hdg in "people also ask" on google search page
+        h1 nebo snad první heading na cílové stránce
+    %EF%BB%BF
+        nevím co to dělá, možná bg barva zvýraznění
+        ?? zjistit co to je
+    &text=Gists%20let%20you%20share%20code
+        text začátku paragrafu on google search page
+             na cílové stránce
+    ,
+    debugging%2C%20or%20testing%20your%20code.
+        text konce zvýrazněného textu včetně tečky na konci on google search page
+             na cílové stránce
+        %2C se musí zakódovat čárka
+
+upraveno:
+
+https://www.jetbrains.com/help/webstorm/share-code-with-gists.html#:~:text=Share%20code%20with%20GitHub%20gists%EF%BB%BF&text=Select%20a%20code%20fragment%20in,window%20or%20tab
+
+jsou vyhledávací texty case sensitive??
+
+další pokusy:
+
+https://www.jetbrains.com/help/webstorm/share-code-with-gists.html#:~:text=%20with%20GitHub%20gists%EF%BB%BF&text=Select%20a%20code%20fragment%20in,window%20or%20tab
+    hdg se nezvýraznil
